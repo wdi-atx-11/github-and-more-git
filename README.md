@@ -162,9 +162,12 @@ So far we have set up our repository from scratch, however, this isn't always th
 The last thing we will do in this lesson is clone our WDI-11 schedule repo to our home directory in our filesystem.
 ```
 $ git clone <URI>
-```
+```  
+  
+  
+## [Git Haiku exercise](https://github.com/wdi-atx-11/git-haiku) (~25 mins)  
 
-## Conclusion (15 mins)
+## Conclusion and Review (15 mins)
 * Review Git Terminology:
     - repository - a collection of related commits that form a directed acyclic graph
     - commit - a snapshot of the working tree at a giving time (along with a message of what changed)
