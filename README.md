@@ -18,7 +18,7 @@ __*GitHub*__
 *After this lesson, students will be able to:*  
 - Create a repo on GitHub  
 - Clone a repo FROM GitHub  
-- Create branches
+- Create branches AND merge
 - Push code to a repo
 - Explain why we use GitHub
 
