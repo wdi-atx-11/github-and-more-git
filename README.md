@@ -15,7 +15,7 @@ __*GitHub*__
 *COMMIT EARLY, COMMIT OFTEN!*
 
 ### Objectives
-*After this lesson, students will be able to:  *
+*After this lesson, students will be able to:*  
 - Create a repo on GitHub  
 - Clone a repo FROM GitHub  
 - Create branches
@@ -23,7 +23,7 @@ __*GitHub*__
 - Explain why we use GitHub
 
 ### Preparation:  
-*Before this lesson, students should already be able to:  *
+*Before this lesson, students should already be able to:*  
 - Explain the importance of Git  
 - Use the command line  
 - Create a git repository  
