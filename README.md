@@ -1,3 +1,10 @@
+<!--
+Creator: <Name>
+Market: ATX
+-->
+
+![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
+
 # __Git(Hub)__
 
 <!--
@@ -11,29 +18,38 @@ __*GitHub*__
 *After this lesson, students will be able to:  *
 - Create a repo on GitHub  
 - Clone a repo FROM GitHub  
-- Explain why we use GitHub  
+- Create branches
 - Push code to a repo
+- Explain why we use GitHub
 
 ### Preparation:  
 *Before this lesson, students should already be able to:  *
 - Explain the importance of Git  
 - Use the command line  
 - Create a git repository  
-- Use basic git commands/functionality: *branch*, *add/stage* changes, *status*, *commit*  
+- Use basic git commands/functionality: *initialize*, *add/stage* changes, *status*, *commit*, *push*, *pull*  
 
 ## Review Git and Intro to GitHub  
 
-As discussed earlier, __*Git*__ is a tool we use to keep track of the changes in our projects. However, __*GitHub*__ is a centralized place where we can keep our projects. You will get a lot of reiteration of this distinction and you WILL understand it, if not today, someday. GitHub allows us to collaborate with other developers outside our local network. This is where the “distributed” part of version control comes in.
+As discussed earlier, __*Git*__ is a tool we use to keep track of the changes in our projects. However, __*GitHub*__ is a centralized place where we can keep our projects. Even though we stress the distinction between the two, Git and GitHub are almost inseparable in today's tech workflow.
 
-Now that you’re a little more comfortable with the git commands and being able to make changes to a project, we’re going to expand our usage of GitHub.
 
+GitHub allows us to collaborate with other developers outside our local network. This is where the “distributed” part of version control comes in. We are able to work on our code wherever the repo exists. GitHub is a central location where anyone can get the code. I can have a copy as well as many other developers and we can all work independently and still be able to bring our work back together.
+
+GitHub is NOT a backup. It may be in the cloud, but it's still helpful to have real remote copies of our work.
+
+> We have our own WDI-11 "org" similar to how a company may choose to store the various repositories that make up their codebase
+
+Now that you’re a little more comfortable with the git commands and being able to make changes to a project, we’re going to expand our usage of GitHub a bit more.
+
+Here's our motto again,
 *COMMIT EARLY, COMMIT OFTEN!*
 
 ## Demo (we do):
 ### Creating a repo on Github
 
-Although this lesson will not be focusing on Github, we are going to set up a "remote repository".
-![Creating a repository](https://content.screencast.com/users/ddunn91/folders/Jing/media/1daab91b-a632-4cbb-be01-3ea3db666280/00000036.png)
+Although this lesson will not be focusing solely on Github, we are going to set up a "remote repository".
+![Creating a repository](https://cloud.githubusercontent.com/assets/10953358/25371957/f606e5da-2958-11e7-9f79-eb720a203b64.png)
 
 1. Click on the "+" icon in the header bar to the right.
 2. Fill out the information about the repository
@@ -139,10 +155,11 @@ this command will create a new branch in git, and then switch to that branch, al
 
 *COMMIT EARLY, COMMIT OFTEN!*
 
-**Cloning Repositories**
+### **Cloning Repositories**  
+
 So far we have set up our repository from scratch, however, this isn't always the case. Sometimes we want to take an existing remote repository and bring it onto our computer locally.
 
-The last thing we will do in this lesson is clone our WDI-10 class repo to our home directory in our filesystem.
+The last thing we will do in this lesson is clone our WDI-11 schedule repo to our home directory in our filesystem.
 ```
 $ git clone <URI>
 ```
@@ -167,8 +184,7 @@ $ git clone <URI>
 ### Hungry for More?
 #### References
 - [Git Cheat Sheet](https://raw.githubusercontent.com/ATL-WDI-Curriculum/local-and-remote-git/master/images/Git-Cheat-Sheet.png)
-- [Github Pages](https://pages.github.com/)
-- [Jekyll](https://jekyllrb.com/)
+- [Github Pages](https://pages.github.com/) for our Personal Portfolios
 
 #### Readings
 - [Git Documentation](https://git-scm.com/documentation)
@@ -176,10 +192,11 @@ $ git clone <URI>
 - [Syncing a fork](https://help.github.com/articles/syncing-a-fork/)
 
 #### Videos
-- [Lynus Torvalds on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
+- [Linus Torvalds (Creator of Linux and Git) on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 
 # NEXT UP...  
-## Team Git (you do):
-*COMMIT EARLY, COMMIT OFTEN!*
-
+## Team Git exercise:
 https://github.com/wdi-atx-11/git-team-exercises
+
+
+*COMMIT EARLY, COMMIT OFTEN!*
