@@ -177,7 +177,11 @@ $ git clone <URI>
 * Review Questions:
     - Can someone tell me what a Git Repository is?
     - What are some key components of a Git repo?
-    - Can someone describe an important Git command (get several responses from students)
+    - Can someone describe an important Git command (get several responses from students)  
+    
+# NEXT UP...  
+## Team Git exercise:
+https://github.com/wdi-atx-11/git-team-exercises
 
 ***
 
@@ -194,9 +198,6 @@ $ git clone <URI>
 #### Videos
 - [Linus Torvalds (Creator of Linux and Git) on Git](https://www.youtube.com/watch?v=4XpnKHJAok8)
 
-# NEXT UP...  
-## Team Git exercise:
-https://github.com/wdi-atx-11/git-team-exercises
 
 
 *COMMIT EARLY, COMMIT OFTEN!*
