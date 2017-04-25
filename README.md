@@ -34,9 +34,9 @@ __*GitHub*__
 As discussed earlier, __*Git*__ is a tool we use to keep track of the changes in our projects. However, __*GitHub*__ is a centralized place where we can keep our projects. Even though we stress the distinction between the two, Git and GitHub are almost inseparable in today's tech workflow.
 
 
-GitHub allows us to collaborate with other developers outside our local network. This is where the “distributed” part of version control comes in. We are able to work on our code wherever the repo exists. GitHub is a central location where anyone can get the code. I can have a copy as well as many other developers and we can all work independently and still be able to bring our work back together.
+GitHub allows us to collaborate with other developers outside our local network. This is where the “distributed” part of version control comes in. We are able to work on our code wherever the repo exists. GitHub is a central location where anyone can get the code. I can have a copy on my computer, as well as many other developers, and we can all work independently and still be able to bring our work back together.
 
-GitHub is NOT a backup. It may be in the cloud, but it's still helpful to have real remote copies of our work.
+GitHub is NOT a backup. It may be in the cloud, but it's still helpful to have real local and remote copies of our work.
 
 > We have our own WDI-11 "org" similar to how a company may choose to store the various repositories that make up their codebase
 
