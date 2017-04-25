@@ -114,7 +114,7 @@ $ git push origin master
 
 The syntax for this is: `git push <remote> <branch>`, the "git push" command wants to know two things, where to send the changes, and which branch to send it down. The remote we named "origin" that we added earlier is this address, and "master" is our default branch.
 
-> Instructor note: view these changes up on github, show what happened once we pushed our code.
+> View these changes on GitHub, show what happened once we pushed our code.
 
 That was a lot of information! Let's get some practice by playing a git simulation game.
 [Code School: Try Git](https://try.github.io/)
@@ -130,7 +130,7 @@ This is where branching comes in. Branching in Git allows us to "break off" wher
 
 ![Git Branch](https://i.stack.imgur.com/eCgrM.png)
 
-> Instructor note: draw and explain this timeline on the board.
+> Draw and explain this timeline on the board.
 
 As Git monitors the changes we have made over time to our software, we can model it in our heads as a timeline, like such above, with each dot across the timeline being a **commit** to the code.
 
